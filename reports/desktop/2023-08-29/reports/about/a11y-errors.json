@@ -1,0 +1,149 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-58-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,ARTICLE,2,DIV,0,DIV,0,DIV,0,DIV,1,DIV,3,DIV,0,A",
+            "selector": "div#formfield-form-widgets-programpage_tile_topleft > div > div > a.btn",
+            "boundingRect": {
+              "top": 646,
+              "bottom": 694,
+              "left": 108,
+              "right": 322,
+              "width": 214,
+              "height": 49
+            },
+            "snippet": "<a alt=\"Complete a Library Request\" class=\"btn btn-default btn-lg\" data-linktype=\"external\" data-toolbox-autogen=\"title\" data-val=\"/about/transportation-facts\" href=\"/about/transportation-facts\" rel=\"noopener\" target=\"_blank\" text=\" Complete a Library Request\">",
+            "nodeLabel": " Learn About CDOT",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.31 between the foreground and shadow color (foreground color: #c3ccd2, text-shadow color: #367096, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-60-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,ARTICLE,2,DIV,1,DIV,0,DIV,0,DIV,1,DIV,3,DIV,0,A",
+            "selector": "div#formfield-form-widgets-programpage_tile_topcenter > div > div > a.btn",
+            "boundingRect": {
+              "top": 624,
+              "bottom": 672,
+              "left": 492,
+              "right": 858,
+              "width": 365,
+              "height": 49
+            },
+            "snippet": "<a alt=\"Mission\" class=\"btn btn-default btn-lg\" data-linktype=\"external\" data-toolbox-autogen=\"title\" data-val=\"/about/mission-and-vision.html\" href=\"/about/mission-and-vision.html\" rel=\"noopener\" target=\"_blank\" text=\"Mission\">",
+            "nodeLabel": " View Our Mission, Vision & Values",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.31 between the foreground and shadow color (foreground color: #c3ccd2, text-shadow color: #367096, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-62-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,ARTICLE,2,DIV,2,DIV,0,DIV,0,DIV,1,DIV,3,DIV,0,A",
+            "selector": "div#formfield-form-widgets-programpage_tile_topright > div > div > a.btn",
+            "boundingRect": {
+              "top": 624,
+              "bottom": 672,
+              "left": 1000,
+              "right": 1270,
+              "width": 269,
+              "height": 49
+            },
+            "snippet": "<a alt=\"CDOT History\" class=\"btn btn-default btn-lg\" data-linktype=\"external\" data-toolbox-autogen=\"title\" data-val=\"/about/CDOTHistory/cdot-history.html\" href=\"/about/CDOTHistory/cdot-history.html\" rel=\"noopener\" target=\"_blank\" text=\"History\">",
+            "nodeLabel": " Learn About Our History",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.31 between the foreground and shadow color (foreground color: #c3ccd2, text-shadow color: #367096, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-64-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,ARTICLE,3,DIV,0,DIV,0,DIV,0,DIV,1,DIV,3,DIV,0,A",
+            "selector": "div#formfield-form-widgets-programpage_tile_bottomleft > div > div > a.btn",
+            "boundingRect": {
+              "top": 1114,
+              "bottom": 1162,
+              "left": 52,
+              "right": 378,
+              "width": 327,
+              "height": 49
+            },
+            "snippet": "<a alt=\"Executive Team\" class=\"btn btn-default btn-lg\" data-linktype=\"external\" data-toolbox-autogen=\"title\" data-val=\"/about/executive-director\" href=\"/about/executive-director\" rel=\"noopener\" target=\"_blank\" text=\"Executive Team\">",
+            "nodeLabel": " Meet CDOT's Leadership Team",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.31 between the foreground and shadow color (foreground color: #c3ccd2, text-shadow color: #367096, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-212-BUTTON",
+            "path": "1,HTML,1,BODY,1,DIV,4,ARTICLE,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,0,BUTTON",
+            "selector": "div#formfield-form-widgets-programpage_tile_bottomcenter > div > div#dropdownMenu2 > button.btn",
+            "boundingRect": {
+              "top": 1158,
+              "bottom": 1209,
+              "left": 497,
+              "right": 853,
+              "width": 355,
+              "height": 52
+            },
+            "snippet": "<button class=\"btn btn-default btn-md dropdown-toggle\" data-toggle=\"dropdown\" type=\"button\">",
+            "nodeLabel": "Browse Committees & Councils",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.81 (foreground color: #e2ebf2, background color: #3b7ba5, font size: 16.5pt (21.9429px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-213-BUTTON",
+            "path": "1,HTML,1,BODY,1,DIV,4,ARTICLE,3,DIV,2,DIV,0,DIV,0,DIV,0,DIV,3,DIV,0,BUTTON",
+            "selector": "div#formfield-form-widgets-programpage_tile_bottomright > div > div#dropdownMenu3 > button.btn",
+            "boundingRect": {
+              "top": 1114,
+              "bottom": 1165,
+              "left": 992,
+              "right": 1278,
+              "width": 285,
+              "height": 52
+            },
+            "snippet": "<button class=\"btn btn-default btn-md dropdown-toggle\" data-toggle=\"dropdown\" type=\"button\">",
+            "nodeLabel": "Browse CDOT Resources",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.81 (foreground color: #e2ebf2, background color: #3b7ba5, font size: 16.5pt (21.9429px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 6
+  }
+]

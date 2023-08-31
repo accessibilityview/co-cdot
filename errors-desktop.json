@@ -1,0 +1,2210 @@
+[
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 4
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 6,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 6
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/ProposedRegionsFAQs",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/assets",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/cdot-engineering-region-boundary-changes",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/committees",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/centennial",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/assets/commission",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/annual-reports",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/news-releases",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/resolutions",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/centennial",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/annual-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/news-releases",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/resolutions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/assets/commission",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/centennial/timeline",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/centennial/assets-and-documents",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/documents",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-225",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-76",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/fun-facts",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/annual-legislative-reports",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/meeting-agenda",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/assets",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2010-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2011-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2012-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2015-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2015-meeting-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2017-meeting-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2021-meeting-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2023",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2010-meeting-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2011-meeting-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2016-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2019-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2023-meeting-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/centennial/assets-and-documents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/centennial/timeline",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/fun-facts",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-225",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-270",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2010-minutes",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2011-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/documents/2013-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2012-meeting-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2011-meeting-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2014-meeting-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2017-meeting-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2010-meeting-minutes",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-agenda/2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2014-meeting-minutes",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2016-minutes",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2017",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/bridge-enterprise-board/meeting-minutes-1/2022",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/assets",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/annual-legislative-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/meeting-agenda",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25/I-25-major-incidents",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25/i-25-major-projects",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25/construction-highlights",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70/construction-timeline",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70/glenwood-canyon",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70/eisenhower-johnson-memorial-tunnel-history",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/meeting-agenda/2009-meeting-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25/I-25-major-incidents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25/construction-highlights",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-25/i-25-major-projects",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70/construction-timeline",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70/eisenhower-johnson-memorial-tunnel-history",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/CDOTHistory/50th-anniversary/interstate-70/glenwood-canyon",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdot",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about/committees/DUI-taskforce/meeting-agenda/2010-meeting-agendas",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
